@@ -1,0 +1,42 @@
+{
+    "csv1": [
+        "Video",
+        "Titolo video",
+        "Ora pubblicazione video",
+        "Iscritti",
+        "Tempo di visualizzazione (ore)",
+        "Visualizzazioni",
+        "Durata di visualizzazione media"
+    ],
+    "csv2": [
+        "Video",
+        "Titolo video",
+        "Ora pubblicazione video",
+        "Iscritti",
+        "Tempo di visualizzazione (ore)",
+        "Visualizzazioni",
+        "Durata di visualizzazione media"
+    ],
+    "excel1": [
+        "name",
+        "job",
+        "id",
+        "createdAt"
+    ],
+    "json1": [
+        "name",
+        "job",
+        "id",
+        "createdAt"
+    ],
+    "xml1": [
+        "publish_date",
+        "author",
+        "catalog",
+        "description",
+        "genre",
+        "price",
+        "book",
+        "title"
+    ]
+}
