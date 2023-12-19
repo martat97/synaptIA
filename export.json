@@ -1,5 +1,6 @@
 {
     "all_seasons": [
+        "sport",
         "Unnamed: 0",
         "player_name",
         "team_abbreviation",
@@ -24,6 +25,7 @@
         "season"
     ],
     "artists": [
+        "music",
         "mbid",
         "artist_mb",
         "artist_lastfm",
@@ -36,6 +38,7 @@
         "ambiguous_artist"
     ],
     "brands": [
+        "social",
         "name",
         "site",
         "wikipedia",
@@ -101,6 +104,7 @@
         "mozcom_spam_score"
     ],
     "Cardiovascular_Disease_Dataset": [
+        "medicine",
         "patientid",
         "age",
         "gender",
@@ -117,6 +121,7 @@
         "target"
     ],
     "celiac_disease_lab_data": [
+        "medicine",
         "\u00ef\u00bb\u00bfAge",
         "Gender",
         "Diabetes",
@@ -134,6 +139,7 @@
         "Disease_Diagnose"
     ],
     "dataset_olympics": [
+        "sport",
         "ID",
         "Name",
         "Sex",
@@ -151,6 +157,7 @@
         "Medal"
     ],
     "diabetes_012_health_indicators_BRFSS2021": [
+        "medicine",
         "Diabetes_012",
         "HighBP",
         "HighChol",
@@ -175,6 +182,7 @@
         "Income"
     ],
     "drivers": [
+        "sport",
         "driverId",
         "driverRef",
         "number",
@@ -186,6 +194,7 @@
         "url"
     ],
     "Expanded_data_with_more_features": [
+        "education",
         "Unnamed: 0",
         "Gender",
         "EthnicGroup",
@@ -203,6 +212,7 @@
         "WritingScore"
     ],
     "fetal_health": [
+        "medicine",
         "baseline value",
         "accelerations",
         "fetal_movement",
@@ -227,6 +237,7 @@
         "fetal_health"
     ],
     "fifa_eda_stats": [
+        "sport",
         "ID",
         "Name",
         "Age",
@@ -286,6 +297,7 @@
         "Release Clause"
     ],
     "Global_Education": [
+        "education",
         "Countries and areas",
         "Latitude ",
         "Longitude",
@@ -317,12 +329,14 @@
         "Unemployment_Rate"
     ],
     "mental-and-substance-use-as-share-of-disease": [
+        "medicine",
         "Entity",
         "Code",
         "Year",
         "DALYs (Disability-Adjusted Life Years) - Mental disorders - Sex: Both - Age: All Ages (Percent)"
     ],
     "Music features": [
+        "music",
         "filename",
         "tempo",
         "beats",
@@ -355,6 +369,7 @@
         "label"
     ],
     "OECD PISA data": [
+        "education",
         "index",
         "LOCATION",
         "INDICATOR",
@@ -363,6 +378,7 @@
         "Value"
     ],
     "prevalence-of-depression-males-vs-females": [
+        "medicine",
         "Entity",
         "Code",
         "Year",
@@ -372,6 +388,7 @@
         "Continent"
     ],
     "races": [
+        "sport",
         "raceId",
         "year",
         "round",
@@ -392,6 +409,7 @@
         "sprint_time"
     ],
     "similarweb": [
+        "social",
         "name",
         "site",
         "global_rank",
@@ -447,10 +465,12 @@
         "total_technologies"
     ],
     "status": [
+        "sport",
         "statusId",
         "status"
     ],
     "student": [
+        "education",
         "Unnamed: 0",
         "Id",
         "Student_Age",
@@ -469,6 +489,7 @@
         "Grade"
     ],
     "student_math_clean": [
+        "education",
         "student_id",
         "school",
         "sex",
@@ -505,6 +526,7 @@
         "final_grade"
     ],
     "submission": [
+        "music",
         "Acoustic/Folk_0",
         "Alt_Music_1",
         "Blues_2",
@@ -518,6 +540,7 @@
         "Rock_10"
     ],
     "summer": [
+        "sport",
         "Year",
         "City",
         "Sport",
@@ -529,6 +552,7 @@
         "Medal"
     ],
     "tcc_ceds_music": [
+        "music",
         "Unnamed: 0",
         "artist_name",
         "track_name",
@@ -562,6 +586,7 @@
         "age"
     ],
     "tiktok": [
+        "sport",
         "name",
         "views",
         "description",
@@ -569,14 +594,8 @@
         "video_link",
         "warn_info"
     ],
-    "Travel_titles_validations_in_Paris_and_suburbs": [
-        "DATE",
-        "STATION_NAME",
-        "ID_REFA_LDA",
-        "TITLE_CATEGORY",
-        "NB_VALID"
-    ],
     "WorldCupPlayers": [
+        "sport",
         "RoundID",
         "MatchID",
         "Team Initials",
